@@ -1,0 +1,25 @@
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\bin\Debug\CT options.exe.config
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\bin\Debug\CT options.exe
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\bin\Debug\CT options.pdb
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\bin\Debug\CT options.xml
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\obj\Debug\CT options.vbprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\obj\Debug\CT_options.frmCToptions1.resources
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\obj\Debug\CT_options.frmCToptions2.resources
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\obj\Debug\CT_options.Resources.resources
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\obj\Debug\CT options.vbproj.GenerateResource.cache
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\obj\Debug\CT options.exe
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\obj\Debug\CT options.xml
+C:\Users\hossa\OneDrive\Desktop\CT options\CT options\obj\Debug\CT options.pdb
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT options.vbprojAssemblyReference.cache
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT_options.frmCToptions1.resources
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT_options.frmCToptions2.resources
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT_options.Resources.resources
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT options.vbproj.GenerateResource.cache
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT options.vbproj.CoreCompileInputs.cache
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT options.xml
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT options.pdb
+D:\My Projects\Desktop Applications\CT options\CT options\bin\Debug\CT options.exe.config
+D:\My Projects\Desktop Applications\CT options\CT options\bin\Debug\CT options.exe
+D:\My Projects\Desktop Applications\CT options\CT options\bin\Debug\CT options.pdb
+D:\My Projects\Desktop Applications\CT options\CT options\bin\Debug\CT options.xml
+D:\My Projects\Desktop Applications\CT options\CT options\obj\Debug\CT options.exe
